@@ -6,6 +6,6 @@ Classification Algorithms: Implementations of popular models such as Logistic Re
 Data Preprocessing: Techniques for handling imbalanced datasets, encoding categorical variables, and feature scaling.
 Evaluation Metrics: Accuracy, Precision, Recall, F1-Score, and ROC-AUC curve analysis.
 Visualization: Confusion matrix, decision boundaries, and feature importance plots.
-
+The datasets used in this repositories are the mnist dataset,mnist dataset etc, 
 
 
